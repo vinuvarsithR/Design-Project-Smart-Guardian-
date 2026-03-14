@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541449199269",
+    "project_id": "smartguardian-113d2",
+    "storage_bucket": "smartguardian-113d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541449199269:android:9716bcacd3bbb50761374c",
+        "android_client_info": {
+          "package_name": "com.example.SmartGuardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbE8cAzmwNuFSeNoC437GrS9DvPxETig4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541449199269:android:92ab343bac1f426961374c",
+        "android_client_info": {
+          "package_name": "com.example.smartguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbE8cAzmwNuFSeNoC437GrS9DvPxETig4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
